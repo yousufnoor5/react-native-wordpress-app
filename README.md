@@ -4,6 +4,7 @@ React Native Wordpress app to convert any wordpress blog or news site to an andr
 ![alt text](https://i.imgur.com/m8rCPXk.jpg)<br>
 
 First Install all modules
+
 ```npm install```
 
 To change wordpress url, admob ad units, onesignal app id, or colors : ```Goto > components/Variables.js```<br>
